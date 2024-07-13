@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hotpink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+.the {
+  max-width: 300px;
+  margin: 20px 0;
+}
+a {
+  color: white;
+}
+h1 {
+  font-size: 10rem;
+  margin-top: 50px;
+}
+.uidesign {
+  margin-top: -200px;
+}
